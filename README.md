@@ -1,3 +1,1 @@
-"# word-counter" 
-"# simple-word-counter" 
-"# word-counter" 
+run npx command a-m-simple_word_counter
