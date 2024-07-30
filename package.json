@@ -1,7 +1,8 @@
 {
-  "name": "simple_word_counter",
+  "name": "a-m-simple_word_counter",
   "version": "1.0.0",
   "main": "index.js",
+  "bin":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

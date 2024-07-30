@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import { input } from "@inquirer/prompts";
 
 async function sentences() {
